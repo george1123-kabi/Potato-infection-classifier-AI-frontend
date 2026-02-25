@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "framework": "create-react-app",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "env": {
+    "REACT_APP_API_URL": "https://potato-infection-classifier-ai-production.up.railway.app/predict"
+  }
+}
